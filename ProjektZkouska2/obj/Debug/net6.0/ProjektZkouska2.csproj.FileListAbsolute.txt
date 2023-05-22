@@ -1,0 +1,15 @@
+C:\Users\lukas\Dropbox\ASP-NET\ProjektZkouska2\ProjektZkouska2\obj\Debug\net6.0\ProjektZkouska2.csproj.AssemblyReference.cache
+C:\Users\lukas\Dropbox\ASP-NET\ProjektZkouska2\ProjektZkouska2\obj\Debug\net6.0\ProjektZkouska2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Dropbox\ASP-NET\ProjektZkouska2\ProjektZkouska2\obj\Debug\net6.0\ProjektZkouska2.AssemblyInfoInputs.cache
+C:\Users\lukas\Dropbox\ASP-NET\ProjektZkouska2\ProjektZkouska2\obj\Debug\net6.0\ProjektZkouska2.AssemblyInfo.cs
+C:\Users\lukas\Dropbox\ASP-NET\ProjektZkouska2\ProjektZkouska2\obj\Debug\net6.0\ProjektZkouska2.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Dropbox\ASP-NET\ProjektZkouska2\ProjektZkouska2\bin\Debug\net6.0\ProjektZkouska2.exe
+C:\Users\lukas\Dropbox\ASP-NET\ProjektZkouska2\ProjektZkouska2\bin\Debug\net6.0\ProjektZkouska2.deps.json
+C:\Users\lukas\Dropbox\ASP-NET\ProjektZkouska2\ProjektZkouska2\bin\Debug\net6.0\ProjektZkouska2.runtimeconfig.json
+C:\Users\lukas\Dropbox\ASP-NET\ProjektZkouska2\ProjektZkouska2\bin\Debug\net6.0\ProjektZkouska2.dll
+C:\Users\lukas\Dropbox\ASP-NET\ProjektZkouska2\ProjektZkouska2\bin\Debug\net6.0\ProjektZkouska2.pdb
+C:\Users\lukas\Dropbox\ASP-NET\ProjektZkouska2\ProjektZkouska2\obj\Debug\net6.0\ProjektZkouska2.dll
+C:\Users\lukas\Dropbox\ASP-NET\ProjektZkouska2\ProjektZkouska2\obj\Debug\net6.0\refint\ProjektZkouska2.dll
+C:\Users\lukas\Dropbox\ASP-NET\ProjektZkouska2\ProjektZkouska2\obj\Debug\net6.0\ProjektZkouska2.pdb
+C:\Users\lukas\Dropbox\ASP-NET\ProjektZkouska2\ProjektZkouska2\obj\Debug\net6.0\ProjektZkouska2.genruntimeconfig.cache
+C:\Users\lukas\Dropbox\ASP-NET\ProjektZkouska2\ProjektZkouska2\obj\Debug\net6.0\ref\ProjektZkouska2.dll
